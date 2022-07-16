@@ -18,14 +18,14 @@ The data was provided on https://aka.ms/30DLDATGitHubRepo and which was sourced 
 
 •	Days of the week: for proper visualization and understanding of the days of the week provided. It is required to change it from numbers to text format and this was also done using conditional column
 
-•	Adding a new column to represent the state where the airline was located: this was also done through research work by searching for the airline where the state was located.
+•	Adding a new column to represent the state where the airline was located: This was also done through research work by searching for the airline where the state was located.
 
 •	Changing the flight delay: This was also done by using create column by example and 0 was represented as flight delay while 1 was represented as flight not delayed. 
 After all the steps were taken, errors and empty spaces were removed, and the dataset was transformed to the powebi desktop.
 
 ## Data Modelling
 
-After the data was transformed into the powerbi desktop, I discovered there was a need for a relationship and looking at the data available there is no relationship, and that was what brought about creating a new sheet for airport from and airport to and researching on where the airport was located in other to build a relationship with the airline data. The relationship was created, and it looked like this.
+After the data was transformed into the powerbi desktop, I discovered there was a need for a relationship  and looking at the data available there is no relationship, and that was what brought about creating a new sheet for airport from and airport to and researching on where the airport was located in other to build a relationship with the airline data. The relationship was created, and it looked like this.
 
 
 ![Airline Model](https://user-images.githubusercontent.com/106280893/179356274-15f83a7b-0ec5-4da9-ae5d-8665ab5fbd65.png)
@@ -40,11 +40,13 @@ After the data was transformed into the powerbi desktop, I discovered there was 
 
 
 ## Recommendation
-According to the research carried out it was discovered that the causes of airline delay can be because of weather, onboarding process while waiting for those with no direct flight etc but according to my analysis and the data provided, here are my recommendations:
+According to the research carried out it was discovered that the causes of airline delay can be attributed to weather, lengthy onboarding process i.e waiting for those with no direct flight etc. But according to my analysis and the data provided, here are my recommendations:
 
-•	Tuesday has the highest number of flight delay during weekdays and southwest Airline has the highest number of flight delay. Passengers can try to avoid travelling on Tuesdays unless they are willing to pay more for lodging.
+•	Tuesday had the highest number of flight delay during weekdays.So,Passengers can try to avoid travelling on Tuesdays unless they are willing to pay more on lodging.
 
-•	Also based on the analysis carried out, it was also discovered that the state with the highest number of flight delay is Dellas, Texas and this can be as a result of passengers not taking a direct flight to Dellas and one of the solution can be building more airport in Dellas, Texas so as to avoid flight delay.
+ •	southwest Airline had the highest number of flight delay.so,Southwest airline should put in place procedures to speed up the onboarding process to make travelling easier and faster for passengers.
+ 
+•	Also based on the analysis carried out, it was also discovered that the state with the highest number of flight delay is Dallas,Texas. It is assumed that most passengers stop at Dallas,Texas before going to their final stop, Airlines in Dallas should suggest an alternative route for passengers to stop before thier final stop to avoid delay  
 
 
 ## Conclusion: 
